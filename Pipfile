@@ -16,9 +16,9 @@ ipykernel = "*"
 jupyter = "*"
 
 [packages]
+opencv-python = "*"
 opencv-contrib-python = "*"
 face-recognition = "*"
-opencv-python = "*"
 
 [requires]
 python_version = "3.7.6"
